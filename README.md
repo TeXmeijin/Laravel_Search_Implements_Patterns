@@ -3,7 +3,7 @@
 Laravelでの設計論を語るためのリポジトリ
 
 @see
-`src/app/Components/README.md`
+[src/app/Components/README.md](https://github.com/TeXmeijin/Laravel_Search_Implements_Patterns/tree/main/src/app/Components)
 
 ## Setup
 
